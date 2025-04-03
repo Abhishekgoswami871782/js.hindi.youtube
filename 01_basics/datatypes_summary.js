@@ -31,3 +31,27 @@ cosnt myFunction = function (){
 }
 
 console.log(typeof bigNumbe);
+
+// *********************************
+
+// Stack (Primitive), Heap (Non-Primit)
+
+
+let myYoutubename = "hiteshchoudharydotcom"
+
+let anothername = myYoutubenaem 
+anothername = "chaiaurcode"
+
+console.log(myYoutubename);
+console.log(anothername);
+
+let userOne = {
+    email: "user@google.com",
+    upi: "user@bl"
+}
+let useTwo = userOne 
+userTwo.email = "hitesh@google.com",
+upi; "user@ybl"
+
+console.log(userOne.email);
+console.log(userTwo.email);
